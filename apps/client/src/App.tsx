@@ -40,9 +40,9 @@ export default function App() {
         <Route path={"/forgot-password"} element={<ForgotPassword />} />
         <Route path={"/password-reset"} element={<PasswordReset />} />
 
-        {!isCloud() && (
+{/*         {!isCloud() && (
           <Route path={"/setup/register"} element={<SetupWorkspace />} />
-        )}
+        )} */}
 
         {isCloud() && (
           <>

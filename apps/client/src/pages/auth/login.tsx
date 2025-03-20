@@ -10,7 +10,7 @@ export default function LoginPage() {
     <>
       <Helmet>
         <title>
-          {t("Login")} - {getAppName()}
+          111{t("Login")} - {getAppName()}
         </title>
       </Helmet>
       <LoginForm />

@@ -7,7 +7,7 @@ export default function CreateWorkspace() {
   return (
     <>
       <Helmet>
-        <title>Create Workspace - {getAppName()}</title>
+        777<title>Create Workspace - {getAppName()}</title>
       </Helmet>
       <SetupWorkspaceForm />
     </>

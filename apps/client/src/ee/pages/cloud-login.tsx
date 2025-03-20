@@ -10,7 +10,7 @@ export default function CloudLogin() {
     <>
       <Helmet>
         <title>
-          {t("Login")} - {getAppName()}
+          222{t("Login")} - {getAppName()}
         </title>
       </Helmet>
 

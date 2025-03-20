@@ -37,7 +37,7 @@ export default function SetupWorkspace() {
       <>
         <Helmet>
           <title>
-            {t("Setup Workspace")} - {getAppName()}
+            666{t("Setup Workspace")} - {getAppName()}
           </title>
         </Helmet>
         <SetupWorkspaceForm />
